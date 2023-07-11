@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7qE6vs4vNilU5rO47Mcbs/hZoOSghnLO9NBM1CB1DY3/K+A0oLrjld8jW8tG/BaV0yHfZSCBUtvIRGIUQiBpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\venzo\\OneDrive - Centennial College\\Desktop\\WINTER SEMESTER 2023\\PROGRAMMING 3\\WPF\\DataBinding_Lab3\\DataBinding_Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venzo\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
